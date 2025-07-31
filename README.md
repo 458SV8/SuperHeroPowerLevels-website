@@ -10,3 +10,6 @@ visualization because it uses a unique and interactive representation of superhe
 data.
 Inspiration:
 https://i.pinimg.com/736x/3d/ec/66/3dec6622325ddd42fda1b4bbb4334e46.jpg
+
+
+{{ I haven’t included every file required to run this project due to its size. However, you can download the video titled ‘demo.mp4’ to get a clear idea of how the website looks and functions. I’ve also attached a .png image as a visual reference for the interface }}
